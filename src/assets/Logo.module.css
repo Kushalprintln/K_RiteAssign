@@ -1,0 +1,12 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logoimg{
+    width: 15%;
+}
+.info{
+    flex-grow: 1;
+    margin: 0px 5px;
+}

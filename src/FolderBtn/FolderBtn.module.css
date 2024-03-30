@@ -1,0 +1,28 @@
+/* .folderContainer {
+    border: 1px solid #edeeee;
+} */
+
+.folder {
+    border: 1px solid #edeeee;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.folder:hover {
+    background-color: #f4f5f6;
+}
+
+.arrow {
+    display: flex;
+    margin-left: auto;
+}
+
+.folderDropDown {
+    padding-left: 10%;
+}

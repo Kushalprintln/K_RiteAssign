@@ -1,0 +1,18 @@
+.button{
+    font-weight: 500;
+    border: 1px solid #edeeee;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 6px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.button:hover{
+    background-color: #f4f5f6;
+}
+.arrow{
+    display: flex;
+    margin-left: auto;
+}
